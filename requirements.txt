@@ -1,0 +1,6 @@
+gradio
+pyodbc
+pandas
+matplotlib
+scikit-learn
+sqlalchemy
